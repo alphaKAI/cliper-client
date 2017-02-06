@@ -1,0 +1,12 @@
+{
+	"name": "clipcpy",
+	"authors": [
+		"Akihiro Shoji"
+	],
+	"dependencies": {
+		"vibe-d": "~>0.7.30"
+	},
+	"description": "Cliper-Client for copying",
+	"copyright": "Copyright (c) 2017, Akihiro Shoji",
+	"license": "MIT"
+}
